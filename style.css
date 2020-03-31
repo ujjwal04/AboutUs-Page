@@ -1,0 +1,17 @@
+html {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.price-section {
+  margin-top: 70px;
+}
+
+.team-members {
+  margin-top: 70px;
+}
+.suggestion-form {
+  margin-top: 70px;
+  margin-bottom: 15px;
+}
